@@ -52,7 +52,7 @@ samples, guidance on mobile development, and a full API reference.
 - Resolution: 828 x 1792 px
 - Ram: 1536 MB
 
-3. Extract the installed [Flutter SDK](https://docs.flutter.dev/get-started/install)m and place it wherever you want (Warning: If using Windows, don't put it in a folder that requires permission, such as: C:/Program Files).
+3. Extract the installed [Flutter SDK](https://docs.flutter.dev/get-started/install) and place it wherever you want (Warning: If using Windows, don't put it in a folder that requires permission, such as: C:/Program Files).
 
 4. Then add the PATH (you can access it from editing your enviroment variables) from the Flutter SDK that we extracted.
 
