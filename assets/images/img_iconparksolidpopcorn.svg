@@ -1,0 +1,10 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_275_269" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="3" y="2" width="29" height="33">
+<path d="M25.272 30.651L29.25 12.75H5.25L9.228 30.651C9.4785 31.7768 9.603 32.34 10.0147 32.67C10.4257 33 11.0025 33 12.1567 33H22.3425C23.4967 33 24.0735 33 24.4845 32.67C24.8962 32.34 25.0208 31.7775 25.272 30.651Z" fill="white" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.25 33L21 12.75M14.25 33L13.5 12.75" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.25 33H11.25M23.25 12.75H11.25M8.25002 12.75C8.25002 12.75 7.50002 10.5 8.62502 9.37501C9.75002 8.25001 12 8.62501 12 8.62501C12 8.62501 12 6.37501 13.5 5.62501C15 4.87501 17.25 6.00001 17.25 6.00001C17.25 6.00001 18.75 3.48226 21 4.12501C23.25 4.76776 23.25 7.50001 23.25 7.50001C23.25 7.50001 25.125 7.50001 26.25 9.00001C27.375 10.5 26.25 12.75 26.25 12.75" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</mask>
+<g mask="url(#mask0_275_269)">
+<path d="M0 0H36V36H0V0Z" fill="#FFCA3D" fill-opacity="0.94"/>
+</g>
+</svg>
